@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a732601a-99fe-4672-9c7c-9fbc4b0fbd8e" name="Default Changelist" comment="Загрузка проэкта на GitHub">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pageobjectseleniumtest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SignUpPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LoginPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MainPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SignUpTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/LoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MainPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SignUpPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/LoginPageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/MainPageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SignUpTest.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Валентин\IdeaProjects\pageobjectseleniumtest\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dxg1AcyFL9d6vWsd8T8HytxSkq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in pageobjectseleniumtest">
+    <configuration name="All in pageobjectseleniumtest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pageobjectseleniumtest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pageobjectseleniumtest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainPageTest" />
+      <option name="METHOD_NAME" value="signUpEmptyUsernameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTest.registerFailTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pageobjectseleniumtest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainPageTest" />
+      <option name="METHOD_NAME" value="registerFailTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTest.signInTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pageobjectseleniumtest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainPageTest" />
+      <option name="METHOD_NAME" value="signInTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTest.signUpEmptyUsernameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pageobjectseleniumtest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainPageTest" />
+      <option name="METHOD_NAME" value="signUpEmptyUsernameTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in pageobjectseleniumtest" />
+        <item itemvalue="JUnit.MainPageTest.registerFailTest" />
+        <item itemvalue="JUnit.MainPageTest.signInTest" />
+        <item itemvalue="JUnit.MainPageTest.signUpEmptyUsernameTest" />
+        <item itemvalue="JUnit.MainPageTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a732601a-99fe-4672-9c7c-9fbc4b0fbd8e" name="Default Changelist" comment="" />
+      <created>1593371940257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593371940257</updated>
+      <workItem from="1593371944173" duration="1509000" />
+      <workItem from="1593374682198" duration="17687000" />
+      <workItem from="1593675934288" duration="25141000" />
+      <workItem from="1593703268492" duration="84000" />
+      <workItem from="1593763846529" duration="176000" />
+      <workItem from="1594800330647" duration="454000" />
+      <workItem from="1594800808992" duration="197000" />
+      <workItem from="1594894239286" duration="2060000" />
+      <workItem from="1595066683421" duration="574000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Загрузка проэкта на GitHub" />
+    <option name="LAST_COMMIT_MESSAGE" value="Загрузка проэкта на GitHub" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pageobjectseleniumtest$MainPageTest_signInTest.ic" NAME="MainPageTest.signInTest Coverage Results" MODIFIED="1593680978441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
